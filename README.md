@@ -1,2 +1,3 @@
 # 000_My-Hash-Project
-A repo for practice
+A repo for HashTable implementation.
+This is simple example for HashTable implementation.
